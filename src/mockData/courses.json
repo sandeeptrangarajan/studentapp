@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Data Structures", "instructor": "Dr. Menon", "credits": 4 },
+  { "id": 2, "name": "Web Development", "instructor": "Ms. Fernandes", "credits": 3 },
+  { "id": 3, "name": "Database Systems", "instructor": "Mr. Iyer", "credits": 4 }
+]
