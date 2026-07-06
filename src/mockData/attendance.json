@@ -1,5 +1,5 @@
 [
-  { "id": 1, "studentName": "Aditi Sharma", "date": "2026-07-01", "status": "Present" },
-  { "id": 2, "studentName": "Rahul Verma", "date": "2026-07-01", "status": "Absent" },
-  { "id": 3, "studentName": "Priya Nair", "date": "2026-07-01", "status": "Present" }
+  { "id": 1, "studentName": "sandeep", "date": "2026-07-01", "status": "Present" },
+  { "id": 2, "studentName": "Nitin", "date": "2026-07-01", "status": "Absent" },
+  { "id": 3, "studentName": "Vinodhini", "date": "2026-07-01", "status": "Present" }
 ]

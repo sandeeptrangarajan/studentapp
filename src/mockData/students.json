@@ -1,5 +1,5 @@
 [
-  { "id": 1, "name": "Aditi Sharma", "course": "B.Sc CS", "year": 2 },
-  { "id": 2, "name": "Rahul Verma", "course": "B.Com", "year": 1 },
-  { "id": 3, "name": "Priya Nair", "course": "B.Sc IT", "year": 3 }
+  { "id": 1, "name": "Sandeep", "course": "B.E CSE", "year": 3 },
+  { "id": 2, "name": "Nitin", "course": "B.E CSE", "year": 4 },
+  { "id": 3, "name": "Vinodhini", "course": "B.E CSE", "year": 3 }
 ]
